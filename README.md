@@ -1,4 +1,4 @@
-#kiri - Your new ai study assistant 
+Kiri - Your new ai study assistant 
 
 Kiri is a desktop application built with Python and PyQt5 that helps you transform PDF documents into structured notes and generate various study materials using the power of local Large Language Models (LLMs) via Ollama.
 
