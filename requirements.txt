@@ -1,0 +1,3 @@
+use the following libraries 
+pip install pymupdf ollama pyqt5 python-docx
+
