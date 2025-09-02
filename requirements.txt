@@ -1,3 +1,7 @@
+install python,
 use the following libraries 
 pip install pymupdf ollama pyqt5 python-docx
+
+in command prompt add :
+ollama pull gemma3:4b-it-qat
 
